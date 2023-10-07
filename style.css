@@ -1,0 +1,14 @@
+html{
+    height: 1700px; width: 1440;
+}
+
+
+body{
+    background-image: url(image/Untitled.png);
+    background-color: cadetblue;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+   
+    
+}
